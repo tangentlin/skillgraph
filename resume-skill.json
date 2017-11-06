@@ -1,0 +1,103 @@
+{
+    "name": "Skills",
+    "children": [
+        {
+            "name": "UI Dev",
+            "children": [
+                {
+                    "name": "Frameworks",
+                    "children": [
+                        {"name": "React.js", "type": "fe"},
+                        {"name": "React Native", "type": "fe"},
+                        {"name": "React VR", "type": "fe"},
+                        {"name": "Redux", "type": "fe"},
+                        {"name": "AngularJS", "type": "fe"},
+                        {"name": "Ionic", "type": "fe"},
+                        {"name": "Cordova", "type": "fe"}
+                    ]
+                },
+                {
+                    "name": "Libraries",
+                    "children": [
+                        {"name": "Redux", "type": "fe"},
+                        {"name": "Ionic", "type": "fe"},
+                        {"name": "D3.js", "type": "fe"},
+                        {"name": "Webpack", "type": "fe"}
+                    ]
+                },
+                {
+                    "name": "Styling",
+                    "children": [
+                        {"name": "Sass", "type": "fe"},
+                        {"name": "Less", "type": "fe"},
+                        {"name": "CSS", "type": "fe"},
+                        {"name": "Responsive", "type": "fe"},
+                        {"name": "Foundation", "type": "fe"},
+                        {"name": "Bootstrap", "type": "fe"},
+                        {"name": "Styled-Components", "type": "fe"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Server-side",
+            "children": [
+                {
+                    "name": "Frameworks",
+                    "children": [
+                        {"name": "ASP.NET", "type": "ss"},
+                        {"name": "ASP.NET MVC", "type": "ss"},
+                        {"name": "Entity Framework", "type": "ss"},
+                        {"name": "NodeJS", "type": "ss"},
+                        {"name": "ORM", "type": "ss"},
+                        {"name": "ODM", "type": "ss"},
+                        {"name": "MeteorJS", "type": "ss"},
+                        {"name": "Python Flask", "type": "ss"}
+                    ]
+                },
+                {
+                    "name": "Architecture",
+                    "children": [
+                        {"name": "Micro Services", "type": "ss"},
+                        {"name": "Enterprise", "type": "ss"},
+                        {"name": "Clound Computing", "type": "ss"},
+                        {"name": "Security", "type": "ss"}
+                    ]
+                },
+                {
+                    "name": "Database",
+                    "children": [
+                        {"name": "SQL Server", "type": "ss"},
+                        {"name": "MongoDB", "type": "ss"},
+                        {"name": "GraphQL", "type": "ss"},
+                        {"name": "Oracle", "type": "ss"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Design",
+            "children": [
+                {
+                    "name": "Tools",
+                    "children": [
+                        {"name": "Sketch", "type": "ux"},
+                        {"name": "Photoshop", "type": "ux"},
+                        {"name": "Illustrator", "type": "ux"},
+                        {"name": "InvisionApp", "type": "ux"},
+                        {"name": "Animate CC", "type": "ux"},
+                        {"name": "After Effects", "type": "ux"},
+                        {"name": "3D Studio Max", "type": "ux"}
+                    ]
+                },
+                {
+                    "name": "Visual",
+                    "children": [
+                        {"name": "UX Design", "type": "ux"},
+                        {"name": "UI Design", "type": "ux"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
